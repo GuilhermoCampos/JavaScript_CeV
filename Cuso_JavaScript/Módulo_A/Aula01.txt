@@ -1,0 +1,12 @@
+Comandos:
+    alert('Olá, mundo!')
+
+    document.body.style.background = 'Black'
+
+    document.querySelector('img#hplogo').style.filter = 'grayscale(100%')
+
+    document.querySelector('img#hplogo').style.visibility = 'hidden'
+
+    document.querySelector('span.bstn-hl-title').innerText = 'Curso em video de JavaScript é o melhor do Youtube!')
+
+    
